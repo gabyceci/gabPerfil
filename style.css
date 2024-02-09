@@ -1,22 +1,9 @@
-.body{
-    
-}
-
-.parrafo{
-    text-align: justify;
-    
-}
-
-.h1{
-        text-align: justify;
-}
-
-.h2{
-    text-align: justify;
-}
-
-.h3{
-    text-align: justify;
-}
-
+html, body {
+    height: 100%; }
+    .container {
+    display: flex;
+    flex-direction: column;
+    min-height: 85vh; }
+    .content {
+    flex-grow: 1; }
 
